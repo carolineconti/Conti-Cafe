@@ -1,0 +1,143 @@
+/*** sectioning elements ***/
+
+body {
+  background: #b3ccff;
+}
+
+header {
+
+}
+
+main {
+  font-size: 19px;
+  font-family: 'Droid Sans', sans-serif;
+
+}
+
+footer {
+  color: #000000;
+}
+
+nav {
+  background-color: #422828;
+  color: #ffffff;
+  margin: 0;
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+
+/**** content styles ***/
+
+h1 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 90px;
+  color: #422828;
+
+
+}
+
+h2 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 40px;
+  margin: 0;
+}
+
+h3 {
+  margin: 0;
+  font-size: 35px;
+  font-family: 'Amatic SC', cursive;
+  font-weight: bold;
+}
+
+p {
+
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+
+table {
+
+}
+
+tr {
+
+}
+
+td {
+
+}
+
+thead {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+
+/*** image styles ***/
+
+img  {
+
+}
+
+
+/*** link styles ***/
+
+a:link {
+  color: #000000;
+}
+
+a:visited {
+  color: #000000;
+}
+
+a:hover {
+  color: #000000;
+}
+
+a:active {
+  color:#000000;
+}
+
+nav a:link {
+  color: #ffffff;
+}
+nav a:visited {
+  color: #ffffff;
+}
+
+nav a:hover {
+  color: #ffffff;
+}
+
+nav a:active {
+  color: #ffffff;
+}
